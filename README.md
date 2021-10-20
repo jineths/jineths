@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jineths
+- 👀 I’m interested in FrontEnd development
+- 🌱 I’m currently learning Html, JS, CSS, ReactJs
+- 🤩 enthusiastic developer, passionate about learning
